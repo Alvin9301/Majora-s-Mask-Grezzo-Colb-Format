@@ -1,6 +1,6 @@
 # Majora's Mask (Grezzo) .Colb Format
 
-<img width="1428" height="808" alt="Screenshot 2026-10-16 040207" src="https://github.com/user-attachments/assets/044d7096-cda0-4f5a-a75d-9b0f17112322" />
+<img width="600" height="376" alt="ezgif-6b7a4e0ea4fd95cd" src="https://github.com/user-attachments/assets/6da0dbcb-104c-4343-9b1a-55819311d421" />
 
 In sky.gar.lzs resides only a handful of cmb files for the tenkyu and kumo. But Ocarina Of Time had multiple for each sky color variation.
 This took up unnecessary space, thus the .colb files were introduced.
